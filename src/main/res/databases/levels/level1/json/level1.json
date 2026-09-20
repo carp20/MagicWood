@@ -7,15 +7,15 @@
         "name": "Rusty sword",
         "damage": 5
       },
-      "heal_amount": 5,
+      "heal_amount": 2,
       "armor": 10
     },
     {
       "name": "Tree",
       "health": 100,
       "weapon": null,
-      "heal_amount": 50,
-      "armor": 100
+      "heal_amount": 1,
+      "armor": 50
     },
     {
       "name": "Orc",
@@ -24,7 +24,7 @@
         "name": "Big axe",
         "damage": 7
       },
-      "heal_amount": 5,
+      "heal_amount": 1,
       "armor": 5
     }
   ]
