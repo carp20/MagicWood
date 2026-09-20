@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {
+      "name": "Goblin",
+      "health": 15,
+      "weapon": {
+        "name": "Rusty sword",
+        "damage": 5
+      },
+      "heal_amount": 5,
+      "armor": 10
+    },
+    {
+      "name": "Tree",
+      "health": 100,
+      "weapon": null,
+      "heal_amount": 50,
+      "armor": 100
+    },
+    {
+      "name": "Orc",
+      "health": 30,
+      "weapon": {
+        "name": "Big axe",
+        "damage": 7
+      },
+      "heal_amount": 5,
+      "armor": 5
+    }
+  ]
+}
